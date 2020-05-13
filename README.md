@@ -1,2 +1,2 @@
 # fast-php
-PHP Docker image with awesome extentions.
+PHP Docker image with awesome extensions.
